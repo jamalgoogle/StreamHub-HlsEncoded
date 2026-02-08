@@ -11,6 +11,9 @@ A tiny Netflix-like streaming app built with FFmpeg.
 - Backend: Node.js / Python
 - Video processing: FFmpeg
 - Frontend: HTML/JS
+## Before running
+- make a videos folder and but inside it your video
+- use ffmpeg to transcript it  
 
 ## Run
 1. Clone repo:
